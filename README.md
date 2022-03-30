@@ -1,13 +1,4 @@
-![MIT License](https://img.shields.io/github/license/CYBERDEVILZ/CRYPTONITE) 
-![Issues](https://img.shields.io/github/issues/CYBERDEVILZ/CRYPTONITE?color=cyan) 
-![](https://img.shields.io/github/languages/top/CYBERDEVILZ/CRYPTONITE)   
-![](https://img.shields.io/github/forks/cyberdevilz/cryptonite?style=social) 
-![](https://img.shields.io/github/stars/CYBERDEVILZ/CRYPTONITE?style=social)
-[![](https://img.shields.io/youtube/channel/views/UC1QZPervOHLiC4xpVnzbDFg?style=social)](https://www.youtube.com/channel/UC1QZPervOHLiC4xpVnzbDFg)
-
 # CRYPTONITE - A Ransomware for Windows OS
-
-![Cryptonite](https://user-images.githubusercontent.com/55954313/123502409-c500b480-d669-11eb-977b-4e9ac5c327fa.jpg)
 
 ## Fully functional ransomware that uses minimum resources to give maximum output
 
@@ -22,12 +13,6 @@
 - [x] Graphical User Interface (Victim side)
 - [x] Graphical User Interface (Attacker side)
 - [ ] Create Windows Defender bypass script
-
-
----
-# ☢️ SEE CRYPTONITE IN ACTION ☢️
-https://user-images.githubusercontent.com/55954313/137829202-ce82ea31-06cf-4522-ad52-9f787a169e46.mp4
-
 ---
 
 # 📚 LEARN TO USE CRYPTONITE 📚
@@ -107,8 +92,3 @@ An all in one **monitoring dashboard** created to understand the **level of dest
 ## 📓 Points to note...
 * The Cryptonite Command Center can be accessed by running the **CommandCenter.py** file.
 * Always use the inbuilt **RELOAD** button to reload the Command Center in case the values don't match up.
-
-# Support Our YouTube Channel 📺
-[![zbunkerart](https://user-images.githubusercontent.com/55954313/137255788-6b14ba33-6d3f-4c9a-9f2f-c78e088656f5.png)](https://www.youtube.com/zbunker)
-We are almost active on [YouTube](https://www.youtube.com/zbunker) creating courses. We are relatively new to this. **Support It. Make an Impact.**
-
