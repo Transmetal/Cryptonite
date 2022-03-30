@@ -30,8 +30,6 @@ The following setups need to be done if you are using **Cryptonite** for the fir
 * Login to [NGROK](https://dashboard.ngrok.com/login)
 * Download the suitable release of **NGROK** for your operating system.
 
-     ![image](https://user-images.githubusercontent.com/55954313/124344516-533be400-dbf0-11eb-9d8f-ff745a510e3e.png)
-
 * Unzip and install **NGROK**.
   * For Linux / MAC users, unzip the folder via terminal: `unzip /path/to/ngrok.zip`.
   * For Windows users, just unzip the folder
@@ -58,8 +56,7 @@ Run the **Server.py** file before you send the ransomware to victims. The **Serv
 
 Copy the **NGROK URL** generated in the terminal. It will be useful in the next step.
 
-## 3. FILLING UP THE DETAILS 📝
-![image](https://user-images.githubusercontent.com/55954313/137672473-13c488a8-a604-4746-a134-619ef459887d.png)   
+## 3. FILLING UP THE DETAILS 📝 
 
 * Run **exeGen.py** and fill up the necessary details.
 * **exeGen.py** will create an **exe** file that can be shipped to the victim.
